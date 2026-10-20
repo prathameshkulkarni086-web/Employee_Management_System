@@ -1,0 +1,20 @@
+{
+  "1001": {
+    "name": "Prathamesh Kulkarni",
+    "department": "Engineering",
+    "position": "Software Engineer",
+    "salary": 75000.0
+  },
+  "1002": {
+    "name": "Shreyas Patil",
+    "department": "Human Resources",
+    "position": "HR Manager",
+    "salary": 65000.0
+  },
+  "1004": {
+    "name": "Raju Kale",
+    "department": "Civil",
+    "position": "Site Manager",
+    "salary": 50000.0
+  }
+}
